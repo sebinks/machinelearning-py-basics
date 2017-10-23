@@ -1,0 +1,12 @@
+list1=[1,2]
+list2=[1,2,3,4,5]
+list3=[1,2,3,"a","b","c"]
+print(list1)
+print(list2)
+print(list3)
+print(max(list1))
+print(min(list2))
+print(max(list3))
+print(len(list3))
+#pop
+print(pop(list3))
